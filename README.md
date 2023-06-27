@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi 👋, I'm @BOOBATHI THILLAN<br><br>A passionate Mern stack developer from India<br><br>🌱 I’m currently learning MERN Stack development in GUVI<br><br>📫 How to reach me <br>boobathithillan@gmail.com<br><br>⚡ Fun fact I am lazy,smart and B+ve Guy 😎😎 <br><br>Feel free to reach out to me 
+Hi 👋, I'm @BOOBATHI THILLAN<br><br>A passionate Mern stack developer from India<br><br>🌱 I’m currently learning MERN Stack development in GUVI<br><br>📫 How to reach me <br>boobathithillan@gmail.com<br><br>⚡ Fun fact I am lazy, smart and B+ve Guy 😎😎 <br><br>Feel free to reach out to me 
 
 
 ## 🌐 Socials:

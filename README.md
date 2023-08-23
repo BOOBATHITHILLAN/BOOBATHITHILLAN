@@ -23,9 +23,10 @@ https://cool-longma-22ad64.netlify.app
 ![](https://github-profile-trophy.vercel.app/?username=boobathithillan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+## 📊 Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/BOOBATHITHILLAN/count.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <!---
 BOOBATHITHILLAN/BOOBATHITHILLAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

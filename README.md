@@ -23,7 +23,7 @@ https://cool-longma-22ad64.netlify.app
 ![](https://github-profile-trophy.vercel.app/?username=boobathithillan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=boobathithillan&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/BOOBATHITHILLAN/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

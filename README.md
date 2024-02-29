@@ -15,10 +15,13 @@ https://cool-longma-22ad64.netlify.app
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boobathi-thillan-119392260) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   ![ExpressJS](https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=express.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Render](https://img.shields.io/badge/render-%2320232a.svg?style=for-the-badge&logo=render&logoColor=%2361DAFB) 
-![Aws](https://img.shields.io/badge/aws-%2320232a.svg?style=for-the-badge&logo=aws&logoColor=%2361DAFB) 
+# 💻 Tech Stack: 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Next-js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-%23563D7C.svg?style=for-the-badge&logo=tailwind.css&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   ![ExpressJS](https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=express.js&logoColor=white)  ![NestJS](https://img.shields.io/badge/nest.js-6DA55F?style=for-the-badge&logo=nest.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Render](https://img.shields.io/badge/render-%2320232a.svg?style=for-the-badge&logo=render&logoColor=%2361DAFB)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Aws](https://img.shields.io/badge/aws-%2320232a.svg?style=for-the-badge&logo=aws&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=boobathithillan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=boobathithillan&theme=dark&hide_border=false)<br/>
